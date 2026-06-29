@@ -34,22 +34,14 @@
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,js,git,github,postman,vscode,react,html,css" />
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="48" height="48"/>
+
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="48" height="48"/>
+
+  <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="48" height="48"/>
 
 </p>
-<p align="left">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
+
 
 ---
 
