@@ -32,16 +32,16 @@
 ## 🚀 Languages & Tools
 
 <p align="left">
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,react,nodejs,express,postman" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,js,git,github,postman,vscode,react,html,css" />
-<img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" height="48" alt="Excel"/>
+  <br><br>
 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="48" alt="Power BI"/>
-
-  <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="48" height="48"/>
-
+  <!-- Additional Tools -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
-
 
 ---
 
