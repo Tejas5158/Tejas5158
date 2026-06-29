@@ -45,25 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Tejas5158&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tejas5158&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas5158&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Tejas5158&theme=algolia&margin-w=15)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Tejas5158&theme=github-compact)
 
 ---
 
