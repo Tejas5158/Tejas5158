@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Node.js, Express.js, Prisma ORM, MySQL, REST APIs**
 
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at **kadamtejas9236@gmail.com**
 
 - ⚡ Fun Fact: **I love building scalable backend systems.**
 
@@ -18,7 +18,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/tejas5158/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
