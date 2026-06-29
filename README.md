@@ -38,18 +38,8 @@
 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,js,git,github,postman,vscode,react,html,css" />
-
-<img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" height="48" alt="Excel"/>
-
-
-
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="48" alt="Power BI"/>
-
-
-
-  <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="48" height="48"/>
-
-
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="48" alt="Power BI"/>
+<img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="48" height="48"/>
 
 </p>
 
