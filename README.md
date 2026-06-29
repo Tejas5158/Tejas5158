@@ -37,6 +37,7 @@
 <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="48" height="48"/>
 
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="48" alt="Power BI"/>
 
   <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="48" height="48"/>
 
