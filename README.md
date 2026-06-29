@@ -1,9 +1,55 @@
-- 👋 Hi, I’m @Tejas5158
-- 👀 I’m currently learning Data Analysis 
-- 🌱 I’m currently working on Sales Ananlysis using powerBI
-- 📫 How to reach me https://github.com/Tejas5158
+# Hi there 👋, I'm Tejas Kadam
 
-<!---
-Tejas5158/Tejas5158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Backend Developer | MCA Aspirant
+
+I'm a Backend Developer passionate about building scalable web applications and RESTful APIs. I enjoy solving real-world problems through clean, efficient, and maintainable code.
+
+## 🚀 About Me
+
+* 💼 Backend Developer
+* 🌱 Currently learning advanced backend architecture and system design
+* 🔭 Working with Node.js, Express.js, Prisma ORM & MySQL
+* 💬 Ask me about Backend Development, REST APIs, Authentication & Databases
+* 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
+* ⚡ Fun fact: I love turning ideas into working software.
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* JavaScript
+* SQL
+* Python
+
+**Backend**
+
+* Node.js
+* Express.js
+* REST APIs
+
+**Database**
+
+* MySQL
+* Prisma ORM
+
+**Tools**
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+## 📌 Featured Projects
+
+### CRM System
+
+Backend CRM application with authentication, role-based access, lead management, task management, and notifications.
+
+### Ultra Abacus
+
+Student and course management backend built using Node.js, Express.js, Prisma ORM, and MySQL.
+
+---
+
+⭐ Thanks for visiting my profile!
+
