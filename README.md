@@ -37,7 +37,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,java,spring,express,mysql,prisma,js,git,github,linux,postman,vscode,react,html,css" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,java,spring,express,mysql,prisma,js,git,github,linux,postman,r,vscode,react,html,css" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="48" alt="Power BI"/>
 <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="48" height="48"/>
 
