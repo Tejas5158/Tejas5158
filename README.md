@@ -45,6 +45,11 @@
 
 ---
 
+## 📊 Featured Data Analytics Project
+
+<a href="https://github.com/Tejas5158/Beverage_sales_analysis_Dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tejas5158&repo=Beverage_sales_analysis_Dashboard&theme=tokyonight" />
+</a>
 
 ---
 
