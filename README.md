@@ -37,7 +37,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,java,spring,express,mysql,prisma,js,git,github,linux,postman,r,vscode,react,html,css" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,java,spring,express,mysql,prisma,js,git,github,linux,postman,r,vscode,react,html,css,numpy,pandas,matplotlib" />
 
 
 
