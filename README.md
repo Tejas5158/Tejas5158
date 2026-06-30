@@ -7,7 +7,8 @@
 
 - 🌱 Currently learning **System Design & React**
 
-- 💬 Ask me about **Node.js, Express.js, Prisma ORM, MySQL, REST APIs, Python, PowerBI, Data Analysis**
+- 💬 Ask me about **Node.js, Express.js, Prisma ORM, MySQL, REST APIs
+  Python, PowerBI, Data Analysis**
 
 - 📫 Reach me at **kadamtejas9236@gmail.com**
 
